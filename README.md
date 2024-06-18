@@ -117,41 +117,29 @@
 |----------|
 |  <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" title="Godot" alt="Godot" width="55" height="55"/>|
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">👀 Git Status 👀</h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=woobe-studio&theme=highcontrast">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=woobe-studio&theme=highcontrast&border=000000">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=woobe-studio&theme=default">
     <img width="800" height="220" src="https://streak-stats.demolab.com?user=woobe-studio&theme=default" alt="GitHub Streak Stats">
   </picture>
 </p>
 
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=woobe-studio&show_icons=true&theme=vision-friendly-dark&border_color=fb8761">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=woobe-studio&show_icons=true&theme=default&border_color=fb8761">
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=woobe-studio&show_icons=true&theme=default&border_color=fb8761" alt="GitHub Stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=woobe-studio&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&border_color=fb8761">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=woobe-studio&size_weight=0.15&count_weight=0.5&layout=compact&theme=default&border_color=fb8761">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woobe-studio&size_weight=0.15&count_weight=0.5&layout=compact&theme=default&border_color=fb8761" alt="Top Languages">
-  </picture>
-</p>
-
----
-
-<h2 align="center">👀 Git Status 👀</h2>
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woobe-studio&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woobe-studio&theme=transparent)|
 | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woobe-studio&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woobe-studio&theme=transparent&utcOffset=1) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=woobe-studio&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=woobe-studio&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=woobe-studio&theme=transparent&utcOffset=1) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=woobe-studio&theme=transparent) |
 | :-: | :-: | :-: |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=woobe-studio&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark&border_color=000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=woobe-studio&size_weight=0.15&count_weight=0.5&layout=compact&theme=default">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woobe-studio&size_weight=0.15&count_weight=0.5&layout=compact&theme=default" alt="Top Languages">
+  </picture>
+</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
