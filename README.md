@@ -49,73 +49,48 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/woobe-studio/woobe-studio/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/woobe-studio/woobe-studio/blob/output/github-snake.svg">
   <img alt="snake gif" src="https://github.com/woobe-studio/woobe-studio/blob/output/github-snake.svg">
 </picture>
 
-### My TOP Languages (First Tier):
-| Python | C++ |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |
 
-### Second Tier:
-| Kotlin | Java | JS |
-|----------|----------|----------|
-| <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" title="Kotlin" alt="Kotlin" width="55" height="55" />|  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" title="Java" alt="Java" width="55" height="55"/> |  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="Java" alt="JS" width="JS" height="55"/> |
+### 🐐 First Tier:
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,r,latex&perline=10)](#)
 
-### Third Tier:
-| C# |
-|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|
+### 🐝 Second Tier:
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,javascript,cs,html,css,markdown&perline=10)](#)
 
-### My favorite IDE's:
+### 🐥 Third Tier:
+[![My Skills](https://skillicons.dev/icons?i=bash,c&perline=10)](#)
 
-| Android Studio | PyCharm | Clion |
-|-----------------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="Clion" alt="Clion" width="55" height="55"/>|
+### 🐒 Currently Studying:
+[![My Skills](https://skillicons.dev/icons?i=typescript,swift,go&perline=10)](#)
 
-### Frameworks I often work with:
+### 🪲 My favorite IDE's:
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,clion,pycharm,vscode,visualstudio,idea,arduino&perline=10)](#)
 
-| Django | QT |
-|----------|----------|
-|  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="55" height="55"/>|  <img src="https://cdn.worldvectorlogo.com/logos/qt-1.svg" title="QT" alt="QT" width="55" height="55"/>|
+### 🐔 Frameworks I often work with:
 
+[![My Skills](https://skillicons.dev/icons?i=django,qt,dotnet&perline=10)](#)
 
-### Libraries for Python I often use:
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e8e8f4f8-250e-48a3-8f2b-0fc601832fe2" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5e7ce8fe-b11c-4396-8037-e045537cc63c" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ae030567-7cd4-4190-a13b-13c6174228cb" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8fd66eb6-496a-4ce1-a5ec-f2c5031313c4" width="45px" height="45px"> &nbsp;
 
-| Numpy | Pandas | Matplotlib | SQLAlchemy |
-|----------|----------|----------|----------|
-|  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/>| 
+### 🐲 Best Engines for making games:
 
-### Often used databases for me:
+[![My Skills](https://skillicons.dev/icons?i=godot,unity&perline=10)](#)
 
-| Postgres | SQLite |
-|-------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgresSQL" alt="PostgresSQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+### 🐁 Commonly used databases by me:
 
-### My favorite Containerization Tools for now:
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite&perline=10)](#)
 
-| Docker |
-|-------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|
+### 🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:
 
-### My favorite game engine:
-
-| Godot |
-|----------|
-|  <img src="https://cdn.worldvectorlogo.com/logos/godot-logo.svg" title="Godot" alt="Godot" width="55" height="55"/>|
+[![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab,linux,windows,debian&perline=10)](#)
 
 <h2 align="center">👀 Git Status 👀</h2>
 
