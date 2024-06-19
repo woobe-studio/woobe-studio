@@ -90,7 +90,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite&perline=10)](#)
 
-### 🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:
+### 🛠️ My Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab,linux,windows,debian&perline=10)](#)
 
