@@ -75,6 +75,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,qt,dotnet&perline=10)](#)
 
+### 🐬 And Libraries:
+
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e8e8f4f8-250e-48a3-8f2b-0fc601832fe2" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5e7ce8fe-b11c-4396-8037-e045537cc63c" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ae030567-7cd4-4190-a13b-13c6174228cb" width="45px" height="45px"> &nbsp;
