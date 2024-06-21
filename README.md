@@ -69,7 +69,9 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,swift,go&perline=10)](#)
 
 ### 🪲 My favorite IDE's:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,clion,pycharm,vscode,visualstudio,idea,arduino&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,clion,pycharm,vscode,visualstudio,idea&perline=10)](#)
+
+<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="45px" height="45px"> &nbsp;
 
 ### 🐔 Frameworks I often work with:
 
@@ -82,9 +84,9 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ae030567-7cd4-4190-a13b-13c6174228cb" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8fd66eb6-496a-4ce1-a5ec-f2c5031313c4" width="45px" height="45px"> &nbsp;
 
-### 🐲 Best Engines for making games:
+### 🐲 Best Engine for making games:
 
-[![My Skills](https://skillicons.dev/icons?i=godot,unity&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=godot&perline=10)](#)
 
 ### 🐁 Commonly used databases by me:
 
@@ -93,6 +95,11 @@
 ### 🛠️ My Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=docker,github,gitlab,linux,windows,debian&perline=10)](#)
+
+### 🐦 VM's :
+
+<img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/virtualboxvbox_103684.png" width="45px" height="45px"> &nbsp;
+<img src="https://www.davidtan.org/wp-content/uploads/2009/11/vmware-workstation-logo.png" width="45px" height="45px"> &nbsp;
 
 <h2 align="center">👀 Git Status 👀</h2>
 
