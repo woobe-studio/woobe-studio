@@ -16,7 +16,7 @@
 
 - 🌱 Currently delving into **he realms of GDScript, Pixel art, and Python Django.**
 
-- 💬 Ask me about **better optimizing app performance! 📱✨**
+- 💬 Ask me about **better optimizing app performance! 📱✨🔈**
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santesik@proton.me)
