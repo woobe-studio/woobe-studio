@@ -99,7 +99,8 @@
 
 ### 🐦 VM's :
 
-<img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/virtualboxvbox_103684.png" width="45px" height="45px"> &nbsp;
+<img src="https://cdn.icon-icons.com/icons2/159/PNG/256/virtualbox_22476.png" width="45px" height="45px"> &nbsp;
+<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/add-network-adapter-to-Windows-10-Hyper-V-virtual-machine.png" width="45px" height="45px">&nbsp;
 <img src="https://www.davidtan.org/wp-content/uploads/2009/11/vmware-workstation-logo.png" width="45px" height="45px"> &nbsp;
 
 <h2 align="center">👀 Git Status 👀</h2>
