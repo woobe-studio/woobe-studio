@@ -69,7 +69,7 @@
 ### 🐒 Currently Studying:
 [![My Skills](https://skillicons.dev/icons?i=typescript,swift,go&perline=10)](#)
 
-### 🪲 My favorite IDE's:
+### 🔥 My favorite IDE's:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,clion,pycharm,vscode,visualstudio,idea&perline=10)](#)
 
 <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="45px" height="45px"> &nbsp;
