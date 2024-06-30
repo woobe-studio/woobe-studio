@@ -95,7 +95,7 @@
 
 ### 🛠️ My Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,docker,github,gitlab,linux,windows,debian&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=neovim,powershell,docker,github,gitlab,linux,windows,debian&perline=10)](#)
 
 ### 🐦 VM's :
 
