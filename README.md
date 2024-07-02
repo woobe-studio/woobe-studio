@@ -70,7 +70,7 @@
 [![My Skills](https://skillicons.dev/icons?i=typescript,swift,go&perline=10)](#)
 
 ### 🔥 My favorite IDE's:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,clion,pycharm,vscode,visualstudio,idea&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,clion,pycharm,visualstudio,idea&perline=10)](#)
 
 <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="45px" height="45px"> &nbsp;
 
@@ -93,15 +93,21 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite&perline=10)](#)
 
+### 📔 Code/Text Editors:
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode&perline=10)](#)
+
+<img src="https://avatars.githubusercontent.com/u/102238249?s=280&v=4" width="45px" height="45px"> &nbsp;
+<img src="https://store-images.s-microsoft.com/image/apps.53368.14446288185913374.cd0d2361-d5b4-4396-9db8-6e396b3436e2.36dbe0a1-2e39-4ddf-bf1a-12691e252495?h=210" width="45px" height="45px"> &nbsp;
+
 ### 🛠️ My Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,powershell,docker,github,gitlab,linux,windows,debian&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=powershell,docker,github,gitlab,linux,windows,debian&perline=10)](#)
 
 ### 🐦 VM's :
 
 <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/virtualbox_22476.png" width="45px" height="45px"> &nbsp;
-<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/add-network-adapter-to-Windows-10-Hyper-V-virtual-machine.png" width="45px" height="45px">&nbsp;
 <img src="https://www.davidtan.org/wp-content/uploads/2009/11/vmware-workstation-logo.png" width="45px" height="45px"> &nbsp;
+<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/add-network-adapter-to-Windows-10-Hyper-V-virtual-machine.png" width="45px" height="45px">&nbsp;
 
 <h2 align="center">👀 Git Status 👀</h2>
 
