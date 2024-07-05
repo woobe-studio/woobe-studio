@@ -14,7 +14,7 @@
 <h3 align="center">App architect sculpting robust solutions that get the job done. 💪🔧</h3>
 
 
-- 🌱 Currently delving into **he realms of GDScript, Pixel art, and Python Django.**
+- 🌱 Currently delving into **the realms of GDScript, Pixel art, and Python Django.**
 
 - 💬 Ask me about **better optimizing app performance! 📱✨🔈**
 
