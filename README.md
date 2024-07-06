@@ -18,6 +18,7 @@
 
 - 💬 Ask me about **better optimizing app performance! 📱✨🔈**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalwozniaksd)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santesik@proton.me)
 
@@ -94,10 +95,10 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite&perline=10)](#)
 
 ### 📔 Code/Text Editors:
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim&perline=10)](#)
 
-<img src="https://avatars.githubusercontent.com/u/102238249?s=280&v=4" width="45px" height="45px"> &nbsp;
 <img src="https://store-images.s-microsoft.com/image/apps.53368.14446288185913374.cd0d2361-d5b4-4396-9db8-6e396b3436e2.36dbe0a1-2e39-4ddf-bf1a-12691e252495?h=210" width="45px" height="45px"> &nbsp;
+<img src="https://avatars.githubusercontent.com/u/102238249?s=280&v=4" width="45px" height="45px"> &nbsp;
 
 ### 🛠️ My Tools:
 
