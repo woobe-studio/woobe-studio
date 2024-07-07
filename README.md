@@ -23,6 +23,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santesik@proton.me)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/woobe-studio)
 ---
+My ReadMe is Free for Use 🎉
+Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 🚀
 
 <div style="text-align: center;">
   <table style="margin: 0 auto; text-align: right;">
