@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalwozniaksd)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WoobeStudio)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCg0NilaLUmoi-te-rbyq2Ng)
-[![TikTok](https://img.shields.io/badge/TikTok-FF2D55?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)
+[![TikTok](https://img.shields.io/badge/TikTok-FF2D55?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@woobestudio)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/woobe-studio)
 ---
