@@ -17,6 +17,7 @@
 - 🌱 Currently delving into **the realms of GDScript, Pixel art, and Python Django.**
 
 - 💬 Ask me about **better optimizing app performance! 📱✨🔈**
+- Contact: woobe-studio@proton.me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalwozniaksd)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/WoobeStudio)
