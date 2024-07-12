@@ -107,7 +107,7 @@ Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 
 
 ### 🛠️ My Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,docker,github,gitlab,linux,windows,debian&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=powershell,docker,github,gitlab,windows,linux&perline=10)](#)
 
 ### 🐦 VM's :
 
