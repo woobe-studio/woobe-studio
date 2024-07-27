@@ -68,12 +68,14 @@ Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
@@ -94,6 +96,7 @@ Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 
 <h2 align="center">👀 Git Status 👀</h2>
 
