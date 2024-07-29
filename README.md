@@ -82,6 +82,7 @@ Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 
 [![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
