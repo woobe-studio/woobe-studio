@@ -14,7 +14,7 @@
 <h3 align="center">App architect sculpting robust solutions that get the job done. 💪🔧</h3>
 
 
-- 🌱 Currently delving into **the realms of GDScript, Pixel art, and Python Django.**
+🌱 Currently focusing on building my website using HTML, CSS, and JavaScript.
 
 - 💬 Ask me about **better optimizing app performance! 📱✨🔈**
 - Contact: woobe-studio@proton.me
