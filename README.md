@@ -14,7 +14,7 @@
 <h3 align="center">App architect sculpting robust solutions that get the job done. 💪🔧</h3>
 
 
-🌱 Currently focusing on building my website using HTML, CSS, and JavaScript.
+🌱 Currently focusing on building my portfolio website using HTML, CSS, and JavaScript.
 
 - 💬 Ask me about **better optimizing app performance! 📱✨🔈**
 - Contact: woobe-studio@proton.me
@@ -98,6 +98,11 @@ Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
+
+
+
+
+
 
 <h2 align="center">👀 Git Status 👀</h2>
 
