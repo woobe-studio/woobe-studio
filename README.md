@@ -20,7 +20,6 @@
 - Contact: woobe-studio@proton.me
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/woobe-studio)
 ---
 My ReadMe is Free for Use 🎉
 Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 🚀
