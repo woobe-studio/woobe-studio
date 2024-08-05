@@ -14,7 +14,7 @@
 <h3 align="center">App architect sculpting robust solutions that get the job done. 💪🔧</h3>
 
 
-🌱 Currently focusing on building my portfolio website using HTML, CSS, and JavaScript.
+🌱 Currently focusing on building Air Global Quality Explorer.
 
 - 💬 Ask me about **better optimizing app performance! 📱✨🔈**
 - Contact: woobe-studio@proton.me
