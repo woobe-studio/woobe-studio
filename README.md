@@ -16,7 +16,7 @@
 
 🌱 Currently focusing on building Air Global Quality Explorer.
 
-- 💬 Ask me about **better optimizing app performance! 📱✨🔈**
+- 💬 Ask me about **better optimizing app performance! 📱**
 - Contact: woobe-studio@proton.me
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
