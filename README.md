@@ -22,7 +22,7 @@
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
 ---
 My ReadMe is Free for Use 🎉
-Feel free to use, modify, and distribute this ReadMe to suit your needs. Enjoy! 🚀
+Feel free to use, modify, and distribute this README to suit your needs. Enjoy! 🚀
 
 <div style="text-align: center;">
   <table style="margin: 0 auto; text-align: right;">
