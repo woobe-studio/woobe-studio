@@ -34,16 +34,16 @@ Feel free to use, modify, and distribute this README to suit your needs. Enjoy! 
         Less
       </td>
       <td style="padding: 0 5px;">
-        <img src="https://via.placeholder.com/20x20/ff9900/000000?text=+" alt="Light Blue">
+        <img src="https://www.colorhexa.com/ff9900.png" alt="Orange" width="20" height="20">
       </td>
       <td style="padding: 0 5px;">
-        <img src="https://via.placeholder.com/20x20/0066ff/000000?text=+" alt="Red">
+        <img src="https://www.colorhexa.com/0066ff.png" alt="Blue" width="20" height="20">
       </td>
       <td style="padding: 0 5px;">
-        <img src="https://via.placeholder.com/20x20/33cc33/000000?text=+" alt="Yellow">
+        <img src="https://www.colorhexa.com/33cc33.png" alt="Green" width="20" height="20">
       </td>
       <td style="padding: 0 5px;">
-        <img src="https://via.placeholder.com/20x20/ff3300/000000?text=+" alt="Yellow">
+        <img src="https://www.colorhexa.com/ff3300.png" alt="Red" width="20" height="20">
       </td>
       <td style="padding: 0 5px;">
         More
@@ -51,6 +51,9 @@ Feel free to use, modify, and distribute this README to suit your needs. Enjoy! 
     </tr>
   </table>
 </div>
+
+
+
 
 
 
