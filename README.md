@@ -64,46 +64,47 @@ Feel free to use, modify, and distribute this README to suit your needs. Enjoy! 
 </picture>
 
 ## 🐐 My competencies
-[![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows-11&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)&nbsp;
+### Programming Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories) 
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
 
+### Frontend Frameworks
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories) 
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories) 
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+
+### Backend Frameworks
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+
+### Development Tools
+[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+
+### Cloud and Hosting
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/search?q=user%3Awoobe-studio&type=Repositories)
 
 
 
