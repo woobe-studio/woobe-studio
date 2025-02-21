@@ -112,13 +112,7 @@ Feel free to use, modify, and distribute this README to suit your needs. Enjoy! 
 
 <h2 align="center">👀 Git Status 👀</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=woobe-studio&theme=highcontrast&border=000000">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=woobe-studio&theme=default">
-    <img width="800" height="220" src="https://streak-stats.demolab.com?user=woobe-studio&theme=default" alt="GitHub Streak Stats">
-  </picture>
-</p>
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woobe-studio&theme=transparent)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=woobe-studio&theme=transparent)|
 | :-: | :-: |
