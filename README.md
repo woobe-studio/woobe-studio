@@ -16,7 +16,7 @@
 
 ---
 
-🌱 Currently focusing on building WeatherApp.
+🌱 My mobile game "Santes" is now available on Google Play Store!.
 
 - 💬 Ask me about **better optimizing app performance! 📱**  
 - 📧 Contact: [woobe-studio@proton.me](mailto:woobe-studio@proton.me)  
