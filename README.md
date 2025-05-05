@@ -23,7 +23,7 @@
 - 📧 Contact: [woobe-studio@proton.me](mailto:woobe-studio@proton.me)  
 - 🌍 Portfolio: [woobe-studio.com](https://woobe-studio.com) 
 
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
+Other Git Repos [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/woobe-studio)
 ---
 My ReadMe is Free for Use 🎉
 Feel free to use, modify, and distribute this README to suit your needs. Enjoy! 🚀
