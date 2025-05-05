@@ -17,6 +17,7 @@
 ---
 
 🌱 My mobile game "Santes" is now available on Google Play Store!.
+[Click Here](https://play.google.com/store/apps/details?id=org.godotengine.SantesMobileGame)
 
 - 💬 Ask me about **better optimizing app performance! 📱**  
 - 📧 Contact: [woobe-studio@proton.me](mailto:woobe-studio@proton.me)  
